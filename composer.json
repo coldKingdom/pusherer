@@ -1,5 +1,5 @@
 {
-    "name": "artdarek/pusherer",
+    "name": "coldkingdom/pusherer",
     "type": "library",    
     "description": "Pusher.com service provider for Laravel 4.",
     "keywords": ["Pusher","Pusher.com","Notifications","laravel","laravel4"],
@@ -17,7 +17,7 @@
         "pusher/pusher-php-server": "dev-serializer"
     },
     "require-dev": {
-        "illuminate/support": "4.0.*"
+        "illuminate/support": "~4"
     },           
     "autoload": {
         "classmap": [
